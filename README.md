@@ -117,8 +117,6 @@ https://github.com/Samruddhi-Savale/Finance-Analytics-Dashboard-using-Power-BI.g
 https://www.linkedin.com/in/samruddhi-savale-7119a4284/
 
 ## License
-
-This project is created for learning, portfolio, and demonstration purposes.
-Feel free to explore, fork, and build upon it.
+This project is licensed under the MIT License.
 
 ---
