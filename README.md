@@ -35,7 +35,7 @@ It helps analysts, finance teams, and decision-makers quickly identify growth pa
 - Expense breakdowns (fixed & variable costs)
 - Profit and margin calculations
 - Date dimension for trend analysis
-- 
+  
 The data is structured to support time-series analysis, category comparisons, and KPI tracking.
 
 ---
